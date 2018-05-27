@@ -1,4 +1,4 @@
-# [JavaFX_Text_Adventure_Template](https://joshuapaulbarnard.github.io/JavaFX_Text_Adventure_Template/)
+# [JavaFX Text Adventure Game Template](https://joshuapaulbarnard.github.io/JavaFX_Text_Adventure_Game_Template/)
 This is a simple text-adventure game based on a example by [RyiSnow](https://www.youtube.com/channel/UCS94AD0gxLakurK-6jnqV1w).
 The GUI was made using JavaFX, while the game mechanics are adapted from an example by [RyiSnow](http://ryisnow.net/2017/04/30/how-to-make-a-text-adventure-game-with-gui-in-java/)
 
