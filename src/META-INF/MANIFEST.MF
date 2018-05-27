@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: JavaFX_Text_Adventure_Game_Template.Main
+
